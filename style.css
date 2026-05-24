@@ -75,20 +75,18 @@ footer {
     padding: 20px;
     font-size: 16px;
 }
-.wrapper {
-        flex-direction: column;
+ .wrapper {
+        display: flex;
+        flex-direction: row;
     }
 
     .nav {
-        width: 100%;
-        display: flex;
-        justify-content: space-around;
-        padding: 10px 0;
-        min-height: auto;
+        width: 30%;
+        min-height: 80vh;
     }
 
     main {
-        width: 100%;
+        width: 70%;
         padding: 20px;
     }
 }
