@@ -75,18 +75,3 @@ footer {
     padding: 20px;
     font-size: 16px;
 }
- .wrapper {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .nav {
-        width: 30%;
-        min-height: 80vh;
-    }
-
-    main {
-        width: 70%;
-        padding: 20px;
-    }
-}
