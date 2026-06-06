@@ -40,6 +40,8 @@ header {
     font-size: 22px;
     font-weight: 500;
     transition: color 0.3s ease;
+    display: 10px 0;
+    font-size: 18px;
 }
 
 .nav a:hover {
